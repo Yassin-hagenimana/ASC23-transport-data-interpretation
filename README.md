@@ -1,1 +1,3 @@
-This project analyzes transport data focused on vehicle fuel efficiency and carbon dioxide (CO₂) emissions. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the dataset is visualized through histograms and a correlation heatmap. The analysis helps identify patterns in engine size, fuel consumption, and emissions. This work supports regional insights for the global stocktake on sustainable transport, as part of the ASC23 systems-based track. All visualizations and code are included in the notebook, along with interpretations to guide further AI applications.
+This project analyzes transport data focused on vehicle fuel efficiency and carbon dioxide (CO₂) emissions. 
+Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the dataset is visualized through histograms and a correlation heatmap. 
+The analysis helps identify patterns in engine size, fuel consumption, emissions....
